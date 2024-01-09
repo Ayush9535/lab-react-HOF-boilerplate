@@ -1,0 +1,14 @@
+span{
+    margin-right: 70px;
+    color: blue;
+}
+.displayAllBox{
+    border: 2px solid black;
+    text-align: left;
+}
+li{
+    list-style-type: none;
+}
+h1{
+    font-size: 25px;
+}
